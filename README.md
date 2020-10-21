@@ -1,12 +1,12 @@
 # portfolio-2
 
-This project we were tasked with completeing a functional portfolio of our work completed in the course thus far. This included 2 homework assignments, our current group porject, contact info, and an about me.
+This project we were tasked with completeing a functional portfolio of our work completed in the course thus far. This included projects 1 and 2 as well as a homework assignment. I also updated the background of the portfolio and added some additional skills learned. 
 # Installation
 
-I utilized my homework 2 as the starting point of the project. The remainder of the formatting was from Boot Strap. 
+Utilized boot strap for CSS. The rest of the info was simply using index.html. 
 
 # Usage
-I can use this portfolio as a reference when applying for jobs. I will also improve on this in portfolio 2 and 3. I hope to improve the formatting.
+I can use this portfolio as a reference when applying for jobs. I will continue to add content as I complete them in my program/career/
 
 # Credits
 https://gt.bootcampcontent.com/GT-Coding-Boot-Camp/gt-atl-fsf-ft-08-2020-u-c
@@ -18,10 +18,11 @@ https://getbootstrap.com/docs/4.5/components/alerts/
 
 
 # Links and deployed image
-https://cameronlay15.github.io/portfolio-1/
-https://github.com/cameronlay15/portfolio-1.git
+https://github.com/cameronlay15/portfolio-2.git
+https://cameronlay15.github.io/portfolio-2/
 
-![image](https://user-images.githubusercontent.com/69812878/93642656-6fa5c180-f9cc-11ea-8834-292b597af725.png)
+![image](https://user-images.githubusercontent.com/69812878/96664302-79e71280-1320-11eb-9011-ca41abfaf4ee.png)
+
 
 
 
